@@ -1,0 +1,4 @@
+name: Ashik
+age : 24
+relationship : single
+passion : singing, coding
